@@ -1,0 +1,9 @@
+{
+  "redirects": [
+    {
+      "source": "/:path*",
+      "destination": "https://mulearn-sbc.vercel.app/:path*",
+      "permanent": true
+    }
+  ]
+}
